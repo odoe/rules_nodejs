@@ -42,6 +42,7 @@ _RUNTIME_DEPS = [
     "copy_static_files",
     "@npm//react",
     "@npm//react-dom",
+     "@npm//@arcgis/core",
 ]
 
 react_scripts(
